@@ -52,8 +52,8 @@ I'm a software engineer at **FAANG** based in **Austin, TX**, passionate about b
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-ryan-ren-s-projects.vercel.app/api?username=448267450&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-ryan-ren-s-projects.vercel.app/api/top-langs/?username=448267450&layout=compact&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-stats-ryan-ren-s-projects.vercel.app/api?username=448267450&show_icons=true&theme=default&hide_border=true" height="150"/>
+<img src="https://github-readme-stats-ryan-ren-s-projects.vercel.app/api/top-langs/?username=448267450&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
