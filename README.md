@@ -1,13 +1,13 @@
 # Hi there, I'm Ryan 👋
 
-I'm a software engineer at **FAANG** based in **Austin, TX**, passionate about building scalable backend systems and clean frontend experiences.
+I'm a software engineer at **FAANG** based in **Bay Area, CA**, passionate about building scalable backend systems and clean frontend experiences.
 
 - 🔭 Currently diving deep into **Java** and **TypeScript** development
 - ☁️ Working with **AWS** daily — Lambda, SAM, API Gateway, Redis
 - 🧠 Actively solving **LeetCode** problems and studying algorithms
 - 🌱 Exploring **OAuth**, microservices, and distributed systems
 - 💬 Ask me about **Java**, **Spring Boot**, **React**, **Node.js**, or **AWS**
-- 📍 Austin, TX
+- 📍 Bay Area, CA
 
 ---
 
