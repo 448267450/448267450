@@ -49,15 +49,6 @@ I'm a software engineer at **FAANG** based in **Bay Area, CA**, passionate about
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-tan-zeta-10.vercel.app/api?username=448267450&show_icons=true&theme=default&hide_border=true" height="150"/>
-<img src="https://github-readme-stats-tan-zeta-10.vercel.app/api/top-langs/?username=448267450&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenkun-ren-87b168295/)
